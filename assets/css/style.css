@@ -1,0 +1,26 @@
+html{
+    scroll-behavior: smooth;
+    }
+
+body {
+    background-color: #000;
+    color: aliceblue;
+}
+
+
+.loguito {
+height: 20pt;
+}
+
+.cuadro, .card, .oscuro {
+    background-color:rgb(23, 163, 184);
+}
+
+img .card-img-top{
+    display: inline-block;
+    height: 130pt;
+}
+
+.viaje {
+font-size: 20pt;
+}
